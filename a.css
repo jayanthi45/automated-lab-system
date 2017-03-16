@@ -1,0 +1,27 @@
+body ,frameset,html{
+	background-color: linen;
+	font-family: calibri;
+	text-align: center; 
+	
+                    }
+label,ul,li{
+	 color: blue; 
+	 font-family : Arial;
+	 
+    }
+a,h2,h1 {
+	font-family: calibri;
+	text-align: center; 
+	color: blue;
+	font-style: bold;
+	   }
+table{
+	background-color: linen;
+	color: blue;
+}
+em{
+	text-transform: uppercase;
+}
+
+
+	
